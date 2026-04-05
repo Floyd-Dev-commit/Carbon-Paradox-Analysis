@@ -3,7 +3,9 @@ A data-driven exploration of the "Carbon Paradox" using CRISP-DM methodology. Fe
 
 ## Acknowledgment
 This project is a Group Project from course of "Programming for Data Science" at ISEG, finished by 
+
 *BIN XU*, (Github Account Holder, Coding and Cloud Deployment)
+
 *XILUN LI*, *TSE GA WING*, *AZIZBEK MUMINOV*, (Writing Parts, Report and Presentation)
 
 ## Project Overview

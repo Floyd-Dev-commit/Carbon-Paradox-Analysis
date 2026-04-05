@@ -1,6 +1,11 @@
 # Carbon-Paradox-Analysis
 A data-driven exploration of the "Carbon Paradox" using CRISP-DM methodology. Features K-Means clustering, SHAP game-theoretic attribution, and PyTorch LSTM forecasting deployed via an interactive Streamlit dashboard.
 
+## Acknowledgment
+This project is a Group Project from course of "Programming for Data Science" at ISEG, finished by 
+*BIN XU*, (Github Account Holder, Coding and Cloud Deployment)
+*XILUN LI*, *TSE GA WING*, *AZIZBEK MUMINOV*, (Writing Parts, Report and Presentation)
+
 ## Project Overview
 This project investigates the "Carbon Paradox" using Data Science and Machine Learning techniques (K-Means, Random Forest, SHAP, and LSTM via PyTorch). The entire workflow strictly follows the **CRISP-DM** methodology, from Data Understanding to Deployment (Actionable Knowledge).
 

@@ -1,6 +1,9 @@
 # Carbon-Paradox-Analysis
 A data-driven exploration of the "Carbon Paradox" using CRISP-DM methodology. Features K-Means clustering, SHAP game-theoretic attribution, and PyTorch LSTM forecasting deployed via an interactive Streamlit dashboard.
 
+## Cloud Deployment
+You may visit web version of our project via https://carbon-paradox-analysis-yjldj6m7krkxuu3b5ess3y.streamlit.app/
+
 ## Acknowledgment
 This project is a Group Project from course of "Programming for Data Science" at ISEG, finished by 
 

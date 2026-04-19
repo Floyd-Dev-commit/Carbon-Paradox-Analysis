@@ -5,7 +5,7 @@ A data-driven exploration of the "Carbon Paradox" using CRISP-DM methodology. Fe
 You may visit web version of our project via https://carbon-paradox-analysis-yjldj6m7krkxuu3b5ess3y.streamlit.app/
 
 ## Acknowledgment
-This project is a Group Project from course of "Programming for Data Science" at ISEG, finished by 
+This project is a Group Project from course of "Programming for Data Science", Lectured by Prof. Carlos Costa, at ISEG, finished by 
 
 *BIN XU*, (Github Account Holder, Coding and Cloud Deployment)
 
